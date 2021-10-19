@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(158, 131, 131);
 }
 
 .App-link {
@@ -35,4 +35,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.header {
+  margin: 4% 2%;
+  text-align: center;
+}
+
+.bgvi {
+  background-color:rgb(75, 15, 20);
+  color: rgb(100, 120, 138);
+}
+
+.even {
+  background-color: rgb(126, 124, 124);
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
 }
